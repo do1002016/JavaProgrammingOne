@@ -7,7 +7,6 @@ import java.util.Scanner;
  *
  * @author Dihlan Ortega
  */
-
 public class C3_26 {
 
     /**
@@ -15,7 +14,6 @@ public class C3_26 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in); // Create Scanner

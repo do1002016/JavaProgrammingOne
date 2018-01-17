@@ -8,7 +8,6 @@ import java.util.Scanner;
  *
  * @author Dihlan Ortega
  */
-
 public class P3 {
 
     /**
@@ -16,7 +15,6 @@ public class P3 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter first digit: ");

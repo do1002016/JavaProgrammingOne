@@ -8,7 +8,6 @@ import java.util.Random;
  *
  * @author Dihlan Ortega
  */
-
 public class C3_14 {
 
     /**
@@ -16,7 +15,6 @@ public class C3_14 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);

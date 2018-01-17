@@ -12,7 +12,6 @@ public class C1_5 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
 
 //Displays the following math problem on the console
