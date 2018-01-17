@@ -5,7 +5,6 @@ package Chapter1;
  *
  * @author Dihlan Ortega
  */
-
 public class C1_1 {
 
     /**
@@ -13,7 +12,6 @@ public class C1_1 {
      *
      * @param args arguments from command line prompt
      */
-
     public static void main(String[] args) {
 
 //Displays the folowing words on the console
